@@ -1,0 +1,558 @@
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+2025-02-27 07:03:21 - Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => EMP123
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 12:00:00
+    [emp_desc] => Testing punch system
+    [latitude] => 12.3456
+    [longitude] => 78.9101
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:25:43
+    [emp_desc] => okk
+    [latitude] => 13.0269349
+    [longitude] => 80.0154181
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:25:48
+    [emp_desc] => okk
+    [latitude] => 13.0269349
+    [longitude] => 80.0154181
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:26:26
+    [emp_desc] => okk
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:29:46
+    [emp_desc] => leave
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:39:40
+    [emp_desc] => leave
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 07:40:16
+    [emp_desc] => going to home 
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:56:30
+    [emp_desc] => 1:26
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 07:57:38
+    [emp_desc] => 1:27
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 07:57:46
+    [emp_desc] => 3:00
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:05:15
+    [emp_desc] => lkjhfgd
+    [latitude] => 13.0269341
+    [longitude] => 80.0154232
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:22:16
+    [attendence_date] => 2025-02-27
+    [emp_desc] => okok
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 08:22:23
+    [attendence_date] => 2025-02-27
+    [emp_desc] => okokbye
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:25:24
+    [attendence_date] => 2025-02-27
+    [emp_desc] => dfghj
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 08:25:27
+    [attendence_date] => 2025-02-27
+    [emp_desc] => dfghj
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 13:59:48
+    [emp_desc] => sdfghj
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:00:06
+    [emp_desc] => sdfghj
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:30:27
+    [attendence_date] => 2025-02-27
+    [emp_desc] => xcvbn
+    [latitude] => 12.8765307
+    [longitude] => 80.2269371
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:43:20
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0267085
+    [longitude] => 80.0153724
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:43:20
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0267085
+    [longitude] => 80.0153724
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:43:29
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0267085
+    [longitude] => 80.0153724
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 08:43:32
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0267085
+    [longitude] => 80.0153724
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 08:45:25
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269294
+    [longitude] => 80.0154179
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:36:51
+    [attendance_date] => 2025-02-27
+    [emp_desc] => 
+    [latitude] => 13.0269067
+    [longitude] => 80.0154124
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:37:02
+    [attendance_date] => 2025-02-27
+    [emp_desc] => 
+    [latitude] => 13.0269067
+    [longitude] => 80.0154124
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:37:07
+    [attendance_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269067
+    [longitude] => 80.0154124
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:41:22
+    [attendance_date] => 2025-02-27
+    [emp_desc] => sdfgjk
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 14:41:27
+    [attendance_date] => 2025-02-27
+    [emp_desc] => sdfgjk
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2025-02-27 09:13:10
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghjk
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2025-02-27 09:13:13
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghjk
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2:44:40 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2:44:43 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0351104
+    [longitude] => 80.2127872
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2:47:27 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269475
+    [longitude] => 80.0154221
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2:47:27 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269475
+    [longitude] => 80.0154221
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch In
+    [action_time] => 2:47:34 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269475
+    [longitude] => 80.0154221
+)
+Array
+(
+    [emp_code] => MV10
+    [action_name] => Punch Out
+    [action_time] => 2:47:37 PM
+    [attendence_date] => 2025-02-27
+    [emp_desc] => sdfghj
+    [latitude] => 13.0269475
+    [longitude] => 80.0154221
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:04:18 AM
+    [attendence_date] => 2025-02-28
+    [emp_desc] => LEAVE
+    [latitude] => 13.0269393
+    [longitude] => 80.0154039
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch Out
+    [action_time] => 9:04:37 AM
+    [attendence_date] => 2025-02-28
+    [emp_desc] => jtrewdfg
+    [latitude] => 13.0269393
+    [longitude] => 80.0154039
+)
+Array
+(
+    [emp_code] => MV00
+    [action_name] => Punch In
+    [action_time] => 2:39:12 PM
+    [attendence_date] => 2025-03-01
+    [emp_desc] => sdfgh
+    [latitude] => 13.0269383
+    [longitude] => 80.015396
+)
+Array
+(
+    [emp_code] => MV00
+    [action_name] => Punch Out
+    [action_time] => 2:39:18 PM
+    [attendence_date] => 2025-03-01
+    [emp_desc] => sdfgh
+    [latitude] => 13.0269383
+    [longitude] => 80.015396
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 8:30:25 AM
+    [attendence_date] => 2025-03-12
+    [emp_desc] => leave
+    [latitude] => 13.0351104
+    [longitude] => 80.2062336
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch Out
+    [action_time] => 8:30:32 AM
+    [attendence_date] => 2025-03-12
+    [emp_desc] => 
+    [latitude] => 13.0351104
+    [longitude] => 80.2062336
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:20:58 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:20:58 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:20:58 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:20:58 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch In
+    [action_time] => 9:20:58 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)
+Array
+(
+    [emp_code] => MV01
+    [action_name] => Punch Out
+    [action_time] => 9:21:14 AM
+    [attendence_date] => 2025-03-18
+    [emp_desc] => present
+    [latitude] => 13.02528
+    [longitude] => 80.2193408
+)

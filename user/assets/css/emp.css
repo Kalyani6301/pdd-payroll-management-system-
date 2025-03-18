@@ -1,0 +1,40 @@
+
+.sidebar {
+    min-width: 280px;
+    height: 140vh;
+    background: rgb(6, 167, 236); /* Same as navbar */
+    color: white;
+}
+.profile-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.dashboard-container {
+    padding: 20px;
+}
+.navbar {
+    background-color: rgb(6, 167, 236);
+}
+.navbar-brand, .nav-link, .dropdown-toggle {
+    color: white !important;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    font-weight: 600;
+    color: #007bff;
+    text-align: center;
+}
+
+table {
+    font-size: 14px;
+}
+
+th {
+    font-weight: 600;
+}
